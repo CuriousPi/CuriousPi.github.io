@@ -33,7 +33,7 @@ body.lb-disable-scrolling {
     height: 100vh !important;
     margin: 0 ;
     max-width: inherit;
-    object-fit: cover!important;
+    object-fit: contain!important;
     padding: 0;
     width: 100%!important;
 }
